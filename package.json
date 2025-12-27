@@ -1,0 +1,23 @@
+{
+  "name": "md-engine",
+  "version": "0.1.0",
+  "description": "Markdown-first website engine with no exposed HTML",
+  "type": "module",
+  "bin": {
+    "md-engine": "./src/main.js"
+  },
+  "files": [
+    "src"
+  ],
+  "dependencies": {
+    "marked": "^12.0.0"
+  },
+  "keywords": [
+    "markdown",
+    "static-site",
+    "content-engine",
+    "docs",
+    "blog"
+  ],
+  "license": "MIT"
+}
