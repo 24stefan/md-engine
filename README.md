@@ -2,7 +2,7 @@
 
 
 
-You write Markdown files. md-engine turns them into pages you can view in the browser, serve locally, or export as data. You never write HTML by hand.
+You write Markdown files. md-engine turns them into pages you can view in the browser, serve locally, or export as data. 
 
 ---
 
